@@ -1,0 +1,1 @@
+<iframe width="100%" height="800px" frameborder="0" src="<?php echo get_post_meta($post->ID, 'linkUrl', $single = true); ?>" ></iframe>
